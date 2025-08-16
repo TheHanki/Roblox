@@ -2,7 +2,7 @@
 _Hawk = "ohhahtuhthttouttpwuttuaunbotwo"
 
 --loadstring
-local Hawk = loadstring(game:HttpGet("https://raw.githubusercontent.com/xwerta/HawkHUB/refs/heads/main/Roblox/UILibs/HawkLib.lua", true))()
+local Hawk = loadstring(game:HttpGet("https://raw.githubusercontent.com/TheHanki/Roblox/refs/heads/main/HawkHUB/v1/UILibraries/UILibs/HawkLib.lua", true))()
 
 --------------------------------------------------------------------------
 
@@ -200,3 +200,4 @@ wait(7)
 Notifications:Notification("Example","This is a notification","Notify",7)
 Notifications:Notify("Example","This is a notification","Notify",function()
 end)
+
